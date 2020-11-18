@@ -5,4 +5,4 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/840cba42-dd7f-434f-838
 # The Battle of Neighborhoods - Read Notebook
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/bcba1dcb-4331-4b8e-bb75-8dbba80b6356/view?access_token=2275004152f5d8468d4b1d97ed3612fc4aaf1e6f98733701b1c839227597b7f0
 # The Battle of Neighborhoods - Read Report (add link)
-https://amanda.childers.github.io/The%20Battle%20of%20Neighborhoods%20-%20PDF%20Report.pdf
+https://github.com/AmandaC150/Coursera_Capstone/blob/main/The%20Battle%20of%20Neighborhoods%20-%20PDF%20Report.pdf
